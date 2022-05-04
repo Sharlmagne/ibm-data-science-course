@@ -1,4 +1,6 @@
-# ibm-data-science - Applied Data Science Capstone
+# IBM Data Science - Applied Data Science Capstone
+
+This is the final project for the IBM Data Science course
 
 1 - Data Collection API.ipynb
 2 - Data Collection with Web Scraping.ipynb
