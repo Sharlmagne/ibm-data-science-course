@@ -1,6 +1,6 @@
 # IBM Data Science - Applied Data Science Capstone
 
-This is the final project for the IBM Data Science course
+SpaceY would like to position itself as an alterative to SpaceX by effectively and purposefully competing against their 62 million dollar rocket launches. The objective is to predict if the Falcon 9 first stage will land successfully and ultimately use that information to lower the cost of rocket launches.
 
 - Data Collection API.ipynb
 - Data Collection with Web Scraping.ipynb
